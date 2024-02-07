@@ -17,26 +17,26 @@ DotFile repo for a quick setup and configuration management process when updatin
 Create and manage a set of scripts to install, update and manage programs I commonly use.
 These programs include:
 
-[ ] Install Scripts
-[ ] Configuration Scripts
-[ ] Docker Compose and Environment Scripts
+- [ ] Install Scripts
+- [ ] Configuration Scripts
+- [ ] Docker Compose and Environment Scripts
 
 ### Productive
 
-[ ] VS Code
-[ ] Firefox
-[ ] Oracle VirtualBox (Optional)
-[ ] Nmap
-[ ] Tabby (Windows Only)
-[ ] WinSCP (Windows Only)
-[ ] Nano (Linux Only)
-[ ] WSL (Windows Only)
+- [ ] VS Code
+- [ ] Firefox
+- [ ] Oracle VirtualBox (Optional)
+- [ ] Nmap
+- [ ] Tabby (Windows Only)
+- [ ] WinSCP (Windows Only)
+- [ ] Nano (Linux Only)
+- [ ] WSL (Windows Only)
 
 ### Personal Use (Optional)
 
-[ ] Spotify
-[ ] Discord
-[ ] Steam
-[ ] Minecraft Launcher
-[ ] CurseForge
-[ ] Obsidian (Windows Only)
+- [ ] Spotify
+- [ ] Discord
+- [ ] Steam
+- [ ] Minecraft Launcher
+- [ ] CurseForge
+- [ ] Obsidian (Windows Only)
