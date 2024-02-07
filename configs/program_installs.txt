@@ -1,0 +1,3 @@
+VS_Code_Linux='https://code.visualstudio.com/docs/?dv=linux64_deb'
+VS_Code_Windows='https://code.visualstudio.com/docs/?dv=win64user'
+

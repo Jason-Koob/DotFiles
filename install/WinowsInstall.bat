@@ -15,3 +15,4 @@
 @REM [ ] Steam
 @REM [ ] Minecraft Launcher
 @REM [ ] CurseForge
+@REM [ ] Obsidian

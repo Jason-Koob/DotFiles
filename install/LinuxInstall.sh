@@ -1,5 +1,5 @@
 #! /bin/bash
-
+apt-get install wget
 
 ### Productive
 
@@ -16,9 +16,16 @@
 # [ ] Steam
 # [ ] Minecraft Launcher
 # [ ] CurseForge
-# [ ] Obsidian
 
 
-# install updates
-apt update -y
-apt upgrade -y
+# install updates (optional)
+# apt update -y
+# apt upgrade -y
+
+function install () {
+    
+}
+
+function update () {
+    
+}

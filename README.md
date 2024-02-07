@@ -39,4 +39,4 @@ These programs include:
 [ ] Steam
 [ ] Minecraft Launcher
 [ ] CurseForge
-[ ] Obsidian
+[ ] Obsidian (Windows Only)
