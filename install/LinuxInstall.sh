@@ -1,7 +1,7 @@
 #! /bin/bash
 sudo apt-get install wget
 pacman -S wget
-
+ 
 ### Productive
 
 # [ ] VS Code
@@ -15,7 +15,7 @@ pacman -S wget
 # [ ] Spotify
 # [ ] Discord
 # [ ] Steam
-# [ ] Minecraft Launcher
+# [ ] Microsoft Minecraft Launcher
 # [ ] CurseForge
 
 
@@ -25,29 +25,29 @@ pacman -S wget
 
 function install () {
     echo "Installing '$programInstall' and logging the process to: '$outputfile'"
-    echo ''
+    echo 
 }
 
 function update () {
     echo "Updating '$programUpdate' and logging the process to: '$outputfile'"
-    echo ''
+    echo 
     
 }
 
 function menu () {
-    echo ''
+    echo 
     echo "Enter $0 -h to view this again."
     echo 'Please select whether to install (-i) or update (-u) any of the following programs (0-9):'
     echo 'Productive:'
-    echo ''
+    echo 
     echo ' 0. VS Code'
     echo ' 1. Firefox'
     echo ' 2. Oracle VirtualBox (Optional)'
     echo ' 3. Nmap'
     echo ' 4. Nano'
-    echo ''
+    echo 
     echo 'Personal Use (Optional):'
-    echo ''
+    echo 
     echo ' 5. Spotify'
     echo ' 6. Discord'
     echo ' 7. Steam'
